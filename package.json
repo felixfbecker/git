@@ -75,6 +75,9 @@
     ],
     "all": true
   },
+  "peerDependencies": {
+    "semantic-release": ">=13.0.0"
+  },
   "prettier": {
     "printWidth": 120,
     "singleQuote": true,
